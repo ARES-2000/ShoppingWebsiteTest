@@ -4,7 +4,7 @@ export const products = [
       name:'BlackBackpack',
       displayName:'Black Backpack',
       price:7899,
-      img:'product-images/backpack.jpg',
+      img:'folder/backpack.jpg',
       rating:{
          stars:'⭐⭐⭐⭐★',
          count: 127
@@ -15,7 +15,7 @@ export const products = [
       name:'TrashCan50liter',
       displayName:'Trash-Can 50liter',
       price:3199, 
-      img:'product-images/trash-can-with-foot-pedal-50-liter.jpg',
+      img:'folder/trash-can-with-foot-pedal-50-liter.jpg',
       rating:{
          stars:'⭐⭐⭐⭐⭐',
          count: 1189
@@ -23,7 +23,7 @@ export const products = [
    },
    {
       id: 'dwallüw',
-      img: "product-images/adults-plain-cotton-tshirt-2-pack-teal.jpg",
+      img: "folder/adults-plain-cotton-tshirt-2-pack-teal.jpg",
       name: "AdultsTShirt2Pack",
       displayName:"Adults T-Shirt 2Pack",
       rating: {
@@ -34,7 +34,7 @@ export const products = [
     },
     {
       id: 'vjsnjjwdk',
-      img: "product-images/black-2-slot-toaster.jpg",
+      img: "folder/black-2-slot-toaster.jpg",
       name: "TwoSlotToasterBlack",
       displayName:"TwoSlotToasterBlack",
       rating: {
